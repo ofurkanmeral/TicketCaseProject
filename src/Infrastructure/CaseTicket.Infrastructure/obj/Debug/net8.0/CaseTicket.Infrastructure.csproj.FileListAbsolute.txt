@@ -1,0 +1,25 @@
+C:\Users\FurkanMeral\source\repos\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\bin\Debug\net8.0\CaseTicket.Infrastructure.deps.json
+C:\Users\FurkanMeral\source\repos\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\bin\Debug\net8.0\CaseTicket.Infrastructure.dll
+C:\Users\FurkanMeral\source\repos\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\bin\Debug\net8.0\CaseTicket.Infrastructure.pdb
+C:\Users\FurkanMeral\source\repos\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\CaseTicket.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\FurkanMeral\source\repos\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\CaseTicket.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FurkanMeral\source\repos\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\CaseTicket.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\FurkanMeral\source\repos\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\CaseTicket.Infrastructure.AssemblyInfo.cs
+C:\Users\FurkanMeral\source\repos\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\CaseTicket.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\FurkanMeral\source\repos\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\CaseTicket.Infrastructure.dll
+C:\Users\FurkanMeral\source\repos\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\refint\CaseTicket.Infrastructure.dll
+C:\Users\FurkanMeral\source\repos\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\CaseTicket.Infrastructure.pdb
+C:\Users\FurkanMeral\source\repos\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\ref\CaseTicket.Infrastructure.dll
+C:\Users\Onur Furkan Meral\Desktop\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\bin\Debug\net8.0\CaseTicket.Infrastructure.deps.json
+C:\Users\Onur Furkan Meral\Desktop\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\bin\Debug\net8.0\CaseTicket.Infrastructure.dll
+C:\Users\Onur Furkan Meral\Desktop\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\bin\Debug\net8.0\CaseTicket.Infrastructure.pdb
+C:\Users\Onur Furkan Meral\Desktop\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\CaseTicket.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Onur Furkan Meral\Desktop\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\CaseTicket.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur Furkan Meral\Desktop\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\CaseTicket.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Onur Furkan Meral\Desktop\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\CaseTicket.Infrastructure.AssemblyInfo.cs
+C:\Users\Onur Furkan Meral\Desktop\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\CaseTicket.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Onur Furkan Meral\Desktop\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\CaseTicket.Infrastructure.sourcelink.json
+C:\Users\Onur Furkan Meral\Desktop\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\CaseTicket.Infrastructure.dll
+C:\Users\Onur Furkan Meral\Desktop\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\refint\CaseTicket.Infrastructure.dll
+C:\Users\Onur Furkan Meral\Desktop\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\CaseTicket.Infrastructure.pdb
+C:\Users\Onur Furkan Meral\Desktop\CaseTicket\src\Infrastructure\CaseTicket.Infrastructure\obj\Debug\net8.0\ref\CaseTicket.Infrastructure.dll

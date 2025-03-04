@@ -1,0 +1,319 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Web\\CaseTicket.Web\\CaseTicket.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Core\\CaseTicket.Application\\CaseTicket.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Core\\CaseTicket.Application\\CaseTicket.Application.csproj",
+        "projectName": "CaseTicket.Application",
+        "projectPath": "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Core\\CaseTicket.Application\\CaseTicket.Application.csproj",
+        "packagesPath": "C:\\Users\\Onur Furkan Meral\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Core\\CaseTicket.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Onur Furkan Meral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Core\\CaseTicket.Domain\\CaseTicket.Domain.csproj": {
+                "projectPath": "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Core\\CaseTicket.Domain\\CaseTicket.Domain.csproj"
+              },
+              "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Infrastructure\\CaseTicket.Infrastructure\\CaseTicket.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Infrastructure\\CaseTicket.Infrastructure\\CaseTicket.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Core\\CaseTicket.Domain\\CaseTicket.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Core\\CaseTicket.Domain\\CaseTicket.Domain.csproj",
+        "projectName": "CaseTicket.Domain",
+        "projectPath": "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Core\\CaseTicket.Domain\\CaseTicket.Domain.csproj",
+        "packagesPath": "C:\\Users\\Onur Furkan Meral\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Core\\CaseTicket.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Onur Furkan Meral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Infrastructure\\CaseTicket.Infrastructure\\CaseTicket.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Infrastructure\\CaseTicket.Infrastructure\\CaseTicket.Infrastructure.csproj",
+        "projectName": "CaseTicket.Infrastructure",
+        "projectPath": "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Infrastructure\\CaseTicket.Infrastructure\\CaseTicket.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Onur Furkan Meral\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Infrastructure\\CaseTicket.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Onur Furkan Meral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Web\\CaseTicket.Web\\CaseTicket.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Web\\CaseTicket.Web\\CaseTicket.Web.csproj",
+        "projectName": "CaseTicket.Web",
+        "projectPath": "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Web\\CaseTicket.Web\\CaseTicket.Web.csproj",
+        "packagesPath": "C:\\Users\\Onur Furkan Meral\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Web\\CaseTicket.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Onur Furkan Meral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Core\\CaseTicket.Application\\CaseTicket.Application.csproj": {
+                "projectPath": "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Core\\CaseTicket.Application\\CaseTicket.Application.csproj"
+              },
+              "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Core\\CaseTicket.Domain\\CaseTicket.Domain.csproj": {
+                "projectPath": "C:\\Users\\Onur Furkan Meral\\Desktop\\CaseTicket\\src\\Core\\CaseTicket.Domain\\CaseTicket.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
