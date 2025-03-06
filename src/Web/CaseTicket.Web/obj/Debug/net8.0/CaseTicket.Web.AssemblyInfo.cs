@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaseTicket.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65431aafae9394c7dd4e8cc2b6053b5991eff612")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdeebdf5eecc82e6b8d15d5d468b65b06d2b16eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaseTicket.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaseTicket.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
